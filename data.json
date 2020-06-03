@@ -1,0 +1,9 @@
+{
+    "urls": {
+        "": ""
+    },
+    "prompt": {
+        "Edit Off": "document.body.contentEditable = 'false'; document.designMode='off';",
+				"Edit On": "document.body.contentEditable = 'false'; document.designMode='off';"
+    }
+}
